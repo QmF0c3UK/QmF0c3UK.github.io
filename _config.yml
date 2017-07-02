@@ -1,24 +1,24 @@
 # Basic
-title: bsmali4的小窝
+title: qmf0c3uk的小窝
 subtitle: 个人小窝
-description: 明明真的很帅~
+description: 图灵炒菜的技术很好~
 # 头像里面的标题
-avatarTitle: bsmali4
+avatarTitle: qmf0c3uk
 # 头像里面的描述
-avatarDesc: 网络安全 / 编程开发
-url: "http://www.codersec.net"
+avatarDesc: Python / 人工智能
+url: "https://qmf0c3uk.github.io/"
 
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: bsmali4 
+    duoshuo: qmf0c3uk 
 
 # Social
 social:
     weibo: no 
-    github: bsmali4
+    github: qmf0c3uk
     # twitter: 
-    mail: root@codersec.net
+    mail: 952663602@qq.com
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 
@@ -31,7 +31,7 @@ social:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/QmF0c3UK/QmF0c3UK.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
